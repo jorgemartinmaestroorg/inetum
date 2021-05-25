@@ -1,3 +1,3 @@
 @echo off
-echo "pruebas 1"
+echo "Trabajo Básico Jenkins"
 pause
