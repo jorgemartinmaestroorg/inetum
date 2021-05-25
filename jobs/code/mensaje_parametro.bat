@@ -1,3 +1,3 @@
 @echo off
-echo "nombre autor " %AUTOR%
+echo "Trabajo Básico Jenkins creado por " %AUTOR%
 pause
